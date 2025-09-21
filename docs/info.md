@@ -19,4 +19,4 @@ Check to see if the output is HIGH when both inputs are HIGH
 
 ## External hardware
 
-All the PMODs
+N/A
