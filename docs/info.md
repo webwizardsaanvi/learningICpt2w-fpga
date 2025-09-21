@@ -19,4 +19,4 @@ Check to see if the output is HIGH when both inputs are HIGH
 
 ## External hardware
 
-N/A
+N/A nothing :)
